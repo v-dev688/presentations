@@ -1,0 +1,25 @@
+INTRODUCTION SLIDE
+
+SCQA: Situation, Complication, Question, Answer
+
+Situation :
+
+Gene Regulatory Networks (GRNs) are systems of genes, transcription factors, and other molecular signals that interact with each other to control the expression levels of mRNA and proteins within a cell. These networks are crucial for orchestrating cellular processes like development, response to environmental changes, and maintaining cellular functions.
+
+So if we are able to map GRN for Diseases we might be able to find core regulatory elements that drive this disease progression rather targeting all these peripheral downstream effector genes which may not be disease modifying 
+
+Complication :
+
+It requires large amount of data specific to the disease - to learn the connection between the genes
+including rare diseases and diseases affecting clinically inaccessible tissues.
+
+Question is:
+
+How we can successfully create GRN that is specific and precise to the disesase
+and How can we handle this issue of limited transcriptomic data in such disease cases
+
+Solution explained in the paper is:
+
+GeneFormer has the capabilities
+	It is trained on single cell technologies which has its advantages of observing different wide variety of transcriptomic states, without averaging the expression of genes across multiple 	cells, potentially providing more precise data for inference of network interactions
+	
