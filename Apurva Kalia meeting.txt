@@ -1,0 +1,25 @@
+Good Morning Apurva Kalia, myself Vasudev I have been working on the FM Geneformer specifically one of its downstream task called Insilico Perturbation.
+
+Situation
+-----------------------------------------------------
+What is insilico perturbation - As geneformer is transformer based model and if we are given a classification task to it and extract embeddings and cluster it in a 2 Dimensional space it clusturs according to these training labels, somewhat it looks like this.
+This process is done on induced pluripotent state of cell
+
+So our main aim is to identify genes whose inhibition can shift the embeddings from tumour state to healthy state/ Senescent state
+
+
+
+Queries
+---------------------------------------------------------
+Of course the primary challenge - is to fine tune it for cancer domain firstly to distinguish the cell states . Tomour/Healthy
+
+
+Challenges I faced
+---------------------------------------------------------
+Sample dataset were not available at first
+Learning curve - understanding the dataformat, its ML side, code understanding, The cellular biology (thankfully Vidhi, AMit, harshit and Bikash was there)
+
+Solution
+-----------------------------------------------------------
+
+
