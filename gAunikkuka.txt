@@ -9,7 +9,7 @@ Geneformer avaible in 5 variants
 *
 *
 *
-*
+* Pretraining with larger and more diverse data can improve classification performace
 
 
 before explaining whats insilico perturbation is one need to understand what is IPSC state (induced Pluripotent state)
